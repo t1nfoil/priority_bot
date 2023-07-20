@@ -66,7 +66,7 @@ For the slack permissions, these are the required oauth scopes
 
 ### To request a change or a feature
 
-DM @andy or @Brendan or preferably, edit this readme and add the feature request below this line.
+DM @andy edit this readme and add the feature request below this line.
 
 ---
 
