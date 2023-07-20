@@ -1,0 +1,11 @@
+{
+    "control_users": [
+        "",
+        ""
+    ],
+    "jira_oauth_user": "",
+    "jira_auth_url": "",
+    "jira_token_url": "",
+    "jira_redirect_url": "",
+    "debug": "true"
+}
